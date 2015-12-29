@@ -1,0 +1,8 @@
+[22-Dec-2015 18:53:19 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/yinpengc/public_html/bjgzuweb/conn.php on line 8
+[23-Dec-2015 00:53:02 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/yinpengc/public_html/bjgzuweb/conn.php on line 8
+[23-Dec-2015 00:56:52 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/yinpengc/public_html/bjgzuweb/conn.php on line 8
+[24-Dec-2015 06:54:32 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/yinpengc/public_html/bjgzuweb/upload.php on line 14
+[24-Dec-2015 08:00:05 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/yinpengc/public_html/bjgzuweb/upload.php on line 14
+[28-Dec-2015 08:13:08 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/yinpengc/public_html/jsh/conn.php on line 8
+[29-Dec-2015 02:13:56 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/yinpengc/public_html/yihai/upload.php on line 14
+[29-Dec-2015 16:18:16 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/yinpengc/public_html/yihai/upload.php on line 14
